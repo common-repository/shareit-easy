@@ -1,0 +1,26 @@
+.share_footer_content {
+    display: flex;
+    align-items: center;
+}
+.share_text {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: #28303d;
+}
+.sfc-facebook {
+    padding-left: 5px;
+}
+.sfc-twitter {
+    padding-left: 5px;
+}
+.sfc-linkedin {
+    padding-left: 5px;
+}
+.sc-icon{
+    opacity: 1;
+    transition: 0.3s;
+}
+.sc-icon:hover {
+    opacity: 0.5;
+}
